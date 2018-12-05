@@ -1,7 +1,10 @@
 ---
 layout: post
-title: First post!
+title: Bài viết đầu tiên !
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+### Hello world
+
+Định làm cái blog bằng go mà làm được nửa chừng thì phát hiện ra cái này.
+Thôi thì dùng thử xem sao 
