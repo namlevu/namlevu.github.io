@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Tôi là ai 
+subtitle: Về cái blog thứ n+1
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Lần đầu tiên mình dùng blog chắc là hồi 360oYahoo!, 
+ngày ấy còn trẻ blog chỉ toàn mơ với mộng, hoa với bướm. 
+Giờ lớn tuổi, chỉ còn niềm vui là gia đình nhỏ với kiến thức nghề.
+Giờ viết ra là để thỉnh thoảng ngó lại, ôn lại, chia sẻ, nhận phản hồi.
+Sẽ rất vui nếu các bạn đọc bài viết của mình, vui hơn khi các bạn phải hồi, dẫu là khen hay chê, ném gạch. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+Blog cá nhân này mình đang viết có 3 nội dung chính:
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+IT: data science, machine learning -> là những bài tự thân tổng hợp sau khi học
+Project management: về quản lý dự án, góp nhặt + tự thân
+Lảm nhảm: chia sẻ về cuộc sống và các sở thích khác của mình.
